@@ -1,0 +1,1 @@
+{"count":1,"page":1,"page_size":10,"total_pages":1,"incidents":[{"id":"d3aa5e7a","title":"API maintenance","date":"2018-11-28T11:56:07.195Z","modified":null,"severity":"under-maintenance","affectedsystems":["api"],"resolved":false,"content":"<p>Lorem ipsum</p>\n<!--- language code: en -->\n"}]}
